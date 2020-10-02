@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : TopSpin                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1534058819                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -79,7 +79,7 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0
-topbar_title_color                        : "#000000"
+topbar_title_color                        : "#000"
 
 cover_image                               : #assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
@@ -87,22 +87,22 @@ cover_overlay_transparency                : 0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#000000"
+body_background_color                     : "#000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#FF453A"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#fff"
+app_price_color                           : "#fff"
+app_description_color                     : "#fff"
 
-feature_title_color                       : "#ffffff"
+feature_title_color                       : "#fff"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#FF453A"
+feature_icons_background_color            : "#222"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#FF453A"
+social_icons_background_color             : "#222"
 
 footer_text_color                         : "#666666"
 
