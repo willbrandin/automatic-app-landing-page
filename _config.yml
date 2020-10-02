@@ -12,7 +12,7 @@ presskit_download_link                    : #https://emilbaehr.com              
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Top Spin                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $2.99                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Top Spin is a dedicated Table Tennis score tracker. Simply increment the score through each rally. Top Spin will keep the score, tell you who is serving, and remind you that it's match point! Want to up your game? Top Spin also records workouts during your match. Take advantage of advanced tracking with the Apple Watch and close your rings! 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
