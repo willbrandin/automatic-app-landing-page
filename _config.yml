@@ -38,13 +38,25 @@ features                                  :
     description                           : Workouts link with each match letting you know how many calories you burned as well as your heart rate.
     fontawesome_icon_name                 : running
     
+  - title                                 : Score Tracking
+    description                           : Never lose track of score.
+    fontawesome_icon_name                 : sort-numeric-up
+    
+  - title                                 : Serve Indicator
+    description                           : Remember who is serving? Now you do.
+    fontawesome_icon_name                 : table-tennis
+    
   - title                                 : iOS Specific Design
     description                           : Design that feels natural and congruent to the iOS experience. 
-    fontawesome_icon_name                 : apple
-
+    fontawesome_icon_name                 : star
+    
+  - title                                 : Custom Settings
+    description                           : Setup custom match settings and make the game your own.
+    fontawesome_icon_name                 : cog
+    
   - title                                 : Widgets
     description                           : Home Screen widgets allow you to see your monthly summary for your matches.
-    fontawesome_icon_name                 : square
+    fontawesome_icon_name                 : tools
 
   - title                                 : Dark Mode
     description                           : If you like leaving your phone on dark mode, you will love TopSpin.
@@ -53,6 +65,22 @@ features                                  :
   - title                                 : Universal App
     description                           : Available on iPhone and iPad!
     fontawesome_icon_name                 : tablet
+    
+  - title                                 : Monthly Summary
+    description                           : View a monthly summary of your wins and losses.
+    fontawesome_icon_name                 : tablet
+    
+  - title                                 : Accessible
+    description                           : Supports Dynamic Type and Voice Over.
+    fontawesome_icon_name                 : universal-access
+
+  - title                                 : Match Timeline (Coming Soon)
+    description                           : See the events of the match in a timeline!
+    fontawesome_icon_name                 : history
+    
+  - title                                 : Live Match Viewer (Coming Soon)
+    description                           : View Match information from your Apple Watch on your iPhone!
+    fontawesome_icon_name                 : magic
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
