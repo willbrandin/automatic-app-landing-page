@@ -68,7 +68,7 @@ features                                  :
     
   - title                                 : Monthly Summary
     description                           : View a monthly summary of your wins and losses.
-    fontawesome_icon_name                 : tablet
+    fontawesome_icon_name                 : calendar
     
   - title                                 : Accessible
     description                           : Supports Dynamic Type and Voice Over.
